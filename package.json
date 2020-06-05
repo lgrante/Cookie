@@ -1,0 +1,15 @@
+{
+  "name": "cookie",
+  "version": "1.0.0",
+  "description": "A little web app that gives you all recipes you can make with the ingredients in your fridge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Louis GRANTE",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "express": "^4.17.1"
+  }
+}
